@@ -198,7 +198,7 @@ position = "{114, -116}";
 }
 );
 id = "5E1A2ACF-25BB-4872-A226-5327BC7330DB";
-weightValue = 12;
+weightValue = 400;
 widthValue = 5;
 xHeight = 495;
 },
@@ -267,7 +267,7 @@ position = "{114, -116}";
 );
 id = "9AA098C0-EDBC-463F-BC21-AFCD07A070D0";
 italicAngle = 8;
-weightValue = 12;
+weightValue = 400;
 widthValue = 5;
 xHeight = 495;
 }
@@ -90435,17 +90435,7 @@ note = NULL;
 );
 instances = (
 {
-customParameters = (
-{
-name = postscriptFullName;
-value = "Alumni Sans Pinstripe";
-},
-{
-name = postscriptFontName;
-value = AlumniSansPinstripe;
-}
-);
-interpolationWeight = 12;
+interpolationWeight = 400;
 instanceInterpolations = {
 "5E1A2ACF-25BB-4872-A226-5327BC7330DB" = 1;
 };
@@ -90453,11 +90443,12 @@ name = Regular;
 weightClass = Normal;
 },
 {
-interpolationWeight = 12;
+interpolationWeight = 400;
 interpolationWidth = 5;
 instanceInterpolations = {
 "5E1A2ACF-25BB-4872-A226-5327BC7330DB" = 1;
 };
+isItalic = 1;
 name = Italic;
 }
 );
