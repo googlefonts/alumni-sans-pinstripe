@@ -7,11 +7,10 @@ DisplayStrings = (
 ABCDEFGHIJKLMNOPQRSTUVWXYZ,
 "nn/Placeholder no/Placeholder oo\012nnnnnoooo",
 "HH/Placeholder HO/Placeholder OOFAF/space GAG\012A/Placeholder A/space B/Placeholder B/space C/Placeholder C/space D/Placeholder D/space E/Placeholder E/space F/Placeholder F/space G/Placeholder G/space H/Placeholder H/space I/Placeholder I/space/space J/Placeholder J/space K/Placeholder K/space L/Placeholder L/space M/Placeholder M/space N/Placeholder N/space O/Placeholder O/space P/Placeholder P/space Q/Placeholder Q/space R/Placeholder R/space S/Placeholder S/space T/Placeholder T/space U/Placeholder U/space V/Placeholder V/space W/Placeholder W/space X/Placeholder X/space Y/Placeholder Y/space Z/Placeholder Z/space HH/Placeholder HO/Placeholder OO\012ABCDEFGHIJKLMNOPQRSTUVWXYZ\012AWARD/space AVATAR/space YOU/space AFAIK/space ALL/space TALL/space TOMATO/space PAIN/space AUSTRAL/space OVOIDE/space OXO/space OYO/space AMAYA/space TIT/space FOLD/space AVANZAR/space Peto/space Fosforo/space Pato/space Pito/space Feo/space Tuvo/space TieneTaraTermo/space Tomate/space Yuno/space Yin/space Yale/space You/space Yeyo/space Fio/space Falaz/space Wonder/space Volcan/space Wals/space Well/space/space Winston/space Wulc/space/space Viene/space Variar/space Velocidad/space Kellogs/space Kunst/space Kale/space \012LORD/space PJROJO/space WYN",
-"",
-"",
 "/De-cy.loclBGR",
 "Í/Ibreve/Icaron Î/Idblgrave Ï/Idotaccent/Idotbelow Ì/Ihookabove/Iinvertedbreve/Imacron/Iogonek/Itilde",
-"HO/Germandbls B"
+"HO/Germandbls B",
+"\015"
 );
 classes = (
 {
@@ -280,12 +279,25 @@ note = .notdef;
 },
 {
 color = 6;
-glyphname = CR;
-lastChange = "2021-11-24 01:09:00 +0000";
+glyphname = .null;
+lastChange = "2021-11-24 17:10:52 +0000";
 layers = (
 {
 layerId = "5E1A2ACF-25BB-4872-A226-5327BC7330DB";
-width = 150;
+width = 0;
+}
+);
+note = NULL;
+unicode = 0000;
+},
+{
+color = 6;
+glyphname = CR;
+lastChange = "2021-11-24 17:07:49 +0000";
+layers = (
+{
+layerId = "5E1A2ACF-25BB-4872-A226-5327BC7330DB";
+width = 0;
 }
 );
 note = CR;
@@ -37740,18 +37752,6 @@ RMXScaler = {
 source = circumflexcomb_tildecomb;
 };
 };
-},
-{
-color = 6;
-glyphname = NULL;
-lastChange = "2021-11-24 01:11:38 +0000";
-layers = (
-{
-layerId = "5E1A2ACF-25BB-4872-A226-5327BC7330DB";
-width = 0;
-}
-);
-note = NULL;
 },
 {
 glyphname = longbar;
