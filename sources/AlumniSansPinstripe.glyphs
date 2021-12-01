@@ -5,7 +5,12 @@ DisplayStrings = (
 "H/Placeholder H/space O/Placeholder O/space HO/Placeholder W\012PRIZED/space WAXY/space JONQUILS/space CHOKED/space BIG/space FARM/space VATS./space QUICKLY/space JIGS/space FOR/space WALTZ/space BEX/space BAD/space NYMPH./space JADED/space ZOMBIES/space ACTED/space QUAINTLY/space BET/space KEPT/space DRIVING/space THEIR/space OXEN/space FORWARD./space BRAWNY/space GODS/space JUST/space FLOCKED/space UP/space TO/space QUIZ/space AND/space VEX/space HIM./space MAY/space JO/space EQUALS/space THE/space FINE/space RECORD/space BY/space SOLVING/space SIX/space PUZZLES/space A/space WEEK./space QUINCY/space JONES/space VOWED/space TO/space FIX/space THE/space BLEACK/space JAZZ/space PROGRAM./space PLAYING/space JAZZ/space VIBE/space CHORDS/space QUICKLY/space EXCITES/space MY/space WIFE./space MUSKY/space HAZE/space ENVELOPED/space A/space CITY/space AS/space JARRING/space QUAKES/space BROKE/space FORTY-SIX/space WINDOWS./space MIX/space ZAPF/space WITH/space VELJOVIC/space AND/space GET/space QUIRKY/space BEZIERS./space A/space MAD/space BOXER/space SHOT/space A/space QUICK,/space GLOVED/space JAB/space TO/space THE/space JAW/space OF/space HIS/space DIZZY/space OPPONENTS./space T/space V/space FOLK/space BUY/space EX-PREZ/space JOHN/space QUINCY/space ADAMS'/space WIG./space WHAM!/space VOLCANO/space ERUPTS/space FIERY/space LIQUID/space DEATH/space ONTO/space EX-JAZZBO/space KENNY/space G./space QUEEN/space ELIZABETH'S/space PROXY/space WAVED/space OFF/space MICK/space JAGGER./space JOHN/space QUINCY/space ADAMS/space GREW/space VEXED/space BY/space TALK/space OF/space PUZZLES./space THE/space JULY/space SUN/space CAUSED/space A/space FRAGMENT/space OF/space PINE/space WAZ/space TO/space OOZE/space ON/space THE/space BLACK/space VELVET/space QUILT./space ASTRONAUT/space QUINCY/space B./space ZACK/space DEFIES/space GRAVITY/space WITH/space SIX/space JET/space FUEL/space PUMPS./space HOW/space QUICKLY/space DAFT/space JUMPING/space ZEBRAS/space VEX./space A/space LARGE/space FAWN/space JUMPED/space QUICKLY/space OVER/space WHITE/space ZINC/space BOXES./space SCHWARZKOPF/space VEXED/space IRAQ/space BIG-TIME/space IN/space JULY./space MY/space GRANDFATHER/space PICKS/space UP/space QUARTZ/space AND/space VALUABLE/space ONYX/space JEWELS./space SPHINX/space OF/space BLACK/space QUARTZ/space JUDGE/space MY/space VOW./space THE/space JOB/space OF/space WAXING/space LINOLEUM/space FREQUENTLY/space PEEVES/space CHINTZY/space KIDS./space JIM/space JUST/space QUIT/space AND/space PACKED/space EXTRA/space BAGS/space FOR/space LIZ/space OWEN./space GRUMPY/space WIZARDS/space MAKE/space TOXIC/space BREW/space FOR/space THE/space EVIL/space QUEEN/space AND/space JACK./space SEX/space PROF/space GIVES/space BACK/space NO/space QUIZ/space WITH/space MILD/space JOY./space BELOVED/space GROUCHO/space JOKED/space A/space MIX/space OF/space ZANY/space QUIPS./space WHACKY/space PANGRAM/space QUIZ/space FLUMMOXED/space STEVE/space JOBS./space QUIP-CRAZY/space GORBACHEV/space WENT/space AND/space MIXED/space FLAPJACKS./space QUEEN/space ELIZABETH'S/space PROXY/space WAVED/space OFF/space MICK/space JAGGER./space JAIL/space ZESTY/space GIVEN/space GRABBED/space PAY/space FROM/space QUACK./space SIX/space BIG/space JUICY/space STEAKS/space AYACA/space SIZZED/space IN/space A/space PAN/space AS/space FIVE/space WORKMEN/space LEFT/space THE/space QUARRY./space MANY-WIVED/space JACK/space LAUGHS/space AT/space PROBES/space OF/space SEX/space QUIZ./space SIX/space QUITE/space CRAZY/space KINGS/space VOWED/space TO/space ABOLISH/space MY/space PITIFUL/space JOUSTS.\012",
 "a/Placeholder a/space b/Placeholder b/space c/Placeholder c/space d/Placeholder d/space e/Placeholder e/space f/Placeholder f/space g/Placeholder g/space h/Placeholder h/space i/Placeholder i/space jjj/space k/Placeholder k/space l/Placeholder l/space m/Placeholder m/space n/Placeholder n/space o/Placeholder o/space p/Placeholder p/space q/Placeholder q/space r/Placeholder r/space s/Placeholder s/space t/Placeholder t/space u/Placeholder u/space v/Placeholder v/space w/Placeholder w/space x/Placeholder x/space y/Placeholder y/space z/Placeholder z\012nn/Placeholder no/Placeholder oo\012nabcdefoghijklmnopoqrostouovowxvyozlno\012fear/space fall/space kilo/space long/space ovoide/space want/space wind/space oxo/space zapato\012Twombli/space Tgmaiwan/space Taiwan/space Tomato/space Temperture/space Tiro/space Twardock/space Walking/space Wonder/space Woc/space Wd/space/space Wrcnder/space/space You/space Family/space Fear/space Furor/space Vocal/space Viajar/space Zusam/space Pearl/space Point/space Pain/space Ayuda/space \012Kilo/space Londres/space Leon/space Lio/space Month\012abcdef/space opqghijklmnopqrstuvwxyz",
 "nn/Placeholder no/Placeholder oo\012nnnnnoooo",
-"s/longs_t"
+"s/longs_t",
+"/tildecomb.case/Otildemacron",
+"/dcroat",
+"/jdotless",
+"/jcircumflex",
+"/tcedilla"
 );
 classes = (
 {
@@ -4149,7 +4154,7 @@ unicode = 00D5;
 },
 {
 glyphname = Otildemacron;
-lastChange = "2021-12-01 10:46:02 +0000";
+lastChange = "2021-12-01 12:57:14 +0000";
 layers = (
 {
 components = (
@@ -4162,7 +4167,7 @@ transform = "{1, 0, 0, 1, 42, 0}";
 },
 {
 name = macroncomb.case;
-transform = "{1, 0, 0, 1, 45, 85}";
+transform = "{1, 0, 0, 1, 45, 63}";
 }
 );
 layerId = "5E1A2ACF-25BB-4872-A226-5327BC7330DB";
@@ -7766,7 +7771,7 @@ unicode = 010F;
 },
 {
 glyphname = dcroat;
-lastChange = "2021-12-01 10:52:57 +0000";
+lastChange = "2021-12-01 13:04:43 +0000";
 layers = (
 {
 layerId = "5E1A2ACF-25BB-4872-A226-5327BC7330DB";
@@ -7834,7 +7839,6 @@ width = 339;
 leftKerningGroup = o;
 note = dcroat;
 rightKerningGroup = d;
-rightMetricsKey = d;
 unicode = 0111;
 },
 {
@@ -9191,17 +9195,17 @@ unicode = 006A;
 },
 {
 glyphname = jdotless;
-lastChange = "2021-12-01 09:12:49 +0000";
+lastChange = "2021-12-01 13:04:55 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{92, -116}";
+position = "{50, -116}";
 },
 {
 name = top;
-position = "{104, 495}";
+position = "{62, 495}";
 }
 );
 layerId = "5E1A2ACF-25BB-4872-A226-5327BC7330DB";
@@ -9209,36 +9213,38 @@ paths = (
 {
 closed = 1;
 nodes = (
-"26 -115 LINE SMOOTH",
-"75 -115 OFFCURVE",
-"110 -91 OFFCURVE",
-"110 -31 CURVE SMOOTH",
-"110 495 LINE",
-"99 495 LINE",
-"99 -32 LINE SMOOTH",
-"99 -85 OFFCURVE",
-"63 -106 OFFCURVE",
-"11 -106 CURVE SMOOTH",
-"4 -106 OFFCURVE",
-"-3 -105 OFFCURVE",
-"-10 -104 CURVE",
-"-10 -114 LINE",
-"-2 -115 OFFCURVE",
-"7 -115 OFFCURVE",
-"16 -115 CURVE SMOOTH"
+"-16 -115 LINE SMOOTH",
+"33 -115 OFFCURVE",
+"68 -91 OFFCURVE",
+"68 -31 CURVE SMOOTH",
+"68 495 LINE",
+"57 495 LINE",
+"57 -32 LINE SMOOTH",
+"57 -85 OFFCURVE",
+"21 -106 OFFCURVE",
+"-31 -106 CURVE SMOOTH",
+"-38 -106 OFFCURVE",
+"-45 -105 OFFCURVE",
+"-52 -104 CURVE",
+"-52 -114 LINE",
+"-44 -115 OFFCURVE",
+"-35 -115 OFFCURVE",
+"-26 -115 CURVE SMOOTH"
 );
 }
 );
-width = 184;
+width = 118;
 }
 );
 leftKerningGroup = j;
+leftMetricsKey = j;
 rightKerningGroup = j;
+rightMetricsKey = j;
 unicode = 0237;
 },
 {
 glyphname = jcircumflex;
-lastChange = "2021-12-01 09:59:35 +0000";
+lastChange = "2021-12-01 13:05:04 +0000";
 layers = (
 {
 components = (
@@ -9247,11 +9253,11 @@ name = jdotless;
 },
 {
 name = circumflexcomb;
-transform = "{1, 0, 0, 1, -34, 7}";
+transform = "{1, 0, 0, 1, -76, 7}";
 }
 );
 layerId = "5E1A2ACF-25BB-4872-A226-5327BC7330DB";
-width = 184;
+width = 118;
 }
 );
 leftKerningGroup = j;
@@ -30401,7 +30407,7 @@ width = 242;
 {
 color = 6;
 glyphname = tildecomb.case;
-lastChange = "2021-12-01 10:15:41 +0000";
+lastChange = "2021-12-01 12:57:14 +0000";
 layers = (
 {
 anchors = (
@@ -30509,7 +30515,7 @@ position = "{139, 591}";
 },
 {
 name = top;
-position = "{139, 676}";
+position = "{139, 654}";
 }
 );
 components = (
@@ -32140,9 +32146,9 @@ weightClass = Normal;
 kerning = {
 "5E1A2ACF-25BB-4872-A226-5327BC7330DB" = {
 "@MMK_L_A" = {
+"@MMK_R_T" = -52;
 "@MMK_R_V" = -44;
 "@MMK_R_Y" = -56;
-"@MMK_R_T" = -52;
 "@MMK_R_Z" = 15;
 };
 "@MMK_L_F" = {
