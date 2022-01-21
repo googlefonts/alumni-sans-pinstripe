@@ -234,7 +234,7 @@ position = "{199, 696}";
 }
 );
 horizontalStems = (
-10
+12
 );
 id = "5E1A2ACF-25BB-4872-A226-5327BC7330DB";
 verticalStems = (
@@ -34458,5 +34458,5 @@ oV = "12";
 };
 };
 versionMajor = 1;
-versionMinor = 8;
+versionMinor = 9;
 }
