@@ -1,14 +1,5 @@
 {
 .appVersion = "1361";
-DisplayStrings = (
-"III/Ia-cy BII/Placeholder ZIIIII\012HHZZHH\012OO/Placeholder ZOO",
-"nn/space/Placeholder zlllll\012nn/space Fznn\012nn/space/Placeholder zoo",
-"IIIII/Placeholder 9IIIII\012HH99HH\01200/Placeholder 900",
-"lllll&/Placeholder &lllll\012nn©f/ampersand.ss02 nn\012oo&/Placeholder &oo",
-"IIIII°/Placeholder °IIIII\012HH¦9°HH\012OO°/Placeholder °OO",
-"lllll§/Placeholder §lllll\012nn§/second §nn\012oo§/Placeholder §oo",
-"nn/Placeholder/Dze-cy IIII\012nn/ie-cy/De-cy.loclBGR HH\012nn/Placeholder/Dze-cy OO"
-);
 classes = (
 {
 automatic = 1;
