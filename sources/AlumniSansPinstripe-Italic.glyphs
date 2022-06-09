@@ -320,11 +320,11 @@ note = NULL;
 {
 color = 6;
 glyphname = space;
-lastChange = "2022-06-09 17:25:01 +0000";
+lastChange = "2022-06-09 17:41:34 +0000";
 layers = (
 {
 layerId = "9AA098C0-EDBC-463F-BC21-AFCD07A070D0";
-width = 160;
+width = 155;
 }
 );
 note = space;
@@ -34945,5 +34945,5 @@ tH = "16";
 };
 };
 versionMajor = 1;
-versionMinor = 9;
+versionMinor = 10;
 }
