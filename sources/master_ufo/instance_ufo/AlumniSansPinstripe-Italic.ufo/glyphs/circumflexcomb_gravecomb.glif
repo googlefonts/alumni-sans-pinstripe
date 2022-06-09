@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_gravecomb" format="2">
+  <note>
+circumflexcomb_gravecomb
+</note>
+  <anchor x="277" y="495" name="_top"/>
+  <anchor x="364" y="701" name="top"/>
+  <anchor x="323" y="506" name="topviet"/>
+  <outline>
+    <component base="circumflexcomb" xOffset="-9"/>
+    <component base="gravecomb" xOffset="59" yOffset="70"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.originalWidth</key>
+      <integer>500</integer>
+    </dict>
+  </lib>
+</glyph>

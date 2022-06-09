@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i-cy" format="2">
+  <advance width="153"/>
+  <unicode hex="0456"/>
+  <note>
+uni0456
+</note>
+  <anchor x="32" y="0" name="bottom"/>
+  <anchor x="60" y="0" name="ogonek"/>
+  <anchor x="124" y="570" name="top"/>
+  <outline>
+    <component base="i"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>

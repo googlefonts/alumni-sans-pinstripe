@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ka-cy" format="2">
+  <advance width="332"/>
+  <unicode hex="041A"/>
+  <note>
+uni041A
+</note>
+  <anchor x="312" y="0" name="bottomright"/>
+  <anchor x="194" y="591" name="top"/>
+  <outline>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="92" y="0" type="line"/>
+      <point x="92" y="296" type="line"/>
+      <point x="123" y="296" type="line"/>
+      <point x="300" y="0" type="line"/>
+      <point x="319" y="0" type="line"/>
+      <point x="135" y="306" type="line"/>
+      <point x="314" y="591" type="line"/>
+      <point x="296" y="591" type="line"/>
+      <point x="121" y="312" type="line"/>
+      <point x="92" y="312" type="line"/>
+      <point x="92" y="591" type="line"/>
+      <point x="76" y="591" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>H</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>K</string>
+      <key>public.markColor</key>
+      <string>0.97,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Es-cy" format="2">
+  <advance width="408"/>
+  <unicode hex="0421"/>
+  <note>
+uni0421
+</note>
+  <anchor x="167" y="-12" name="bottom"/>
+  <anchor x="253" y="591" name="top"/>
+  <outline>
+    <component base="C"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.67,0.91,1</string>
+    </dict>
+  </lib>
+</glyph>
