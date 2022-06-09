@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y" format="2">
+  <advance width="290"/>
+  <unicode hex="0059"/>
+  <note>
+Y
+</note>
+  <anchor x="104" y="0" name="bottom"/>
+  <anchor x="187" y="591" name="top"/>
+  <anchor x="80" y="591" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="94" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="146" y="253" type="line"/>
+      <point x="317" y="591" type="line"/>
+      <point x="300" y="591" type="line"/>
+      <point x="142" y="275" type="line"/>
+      <point x="86" y="591" type="line"/>
+      <point x="69" y="591" type="line"/>
+      <point x="130" y="253" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+0 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+0 5 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

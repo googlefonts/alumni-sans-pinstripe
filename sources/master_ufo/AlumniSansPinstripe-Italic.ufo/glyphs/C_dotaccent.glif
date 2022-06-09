@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Cdotaccent" format="2">
+  <advance width="408"/>
+  <unicode hex="010A"/>
+  <note>
+Cdotaccent
+</note>
+  <anchor x="167" y="-12" name="bottom"/>
+  <anchor x="261" y="630" name="top"/>
+  <outline>
+    <component base="C"/>
+    <component base="dotaccentcomb.case" xOffset="-45"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>PUSHW[ ]	/* 4 values pushed */
+48 4 12 4 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

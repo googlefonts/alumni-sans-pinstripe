@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ncaron" format="2">
+  <advance width="434"/>
+  <unicode hex="0147"/>
+  <note>
+Ncaron
+</note>
+  <anchor x="221" y="0" name="bottom"/>
+  <anchor x="227" y="674" name="top"/>
+  <outline>
+    <component base="N"/>
+    <component base="caroncomb.case" xOffset="-25"/>
+  </outline>
+</glyph>

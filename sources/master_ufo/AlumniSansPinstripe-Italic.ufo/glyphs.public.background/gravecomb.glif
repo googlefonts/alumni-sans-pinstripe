@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravecomb" format="2">
+  <anchor x="86" y="495" name="_top"/>
+  <anchor x="67" y="436" name="_topviet"/>
+  <anchor x="105" y="631" name="top"/>
+  <outline>
+    <contour>
+      <point x="122" y="545" type="line"/>
+      <point x="133" y="545" type="line"/>
+      <point x="81" y="631" type="line"/>
+      <point x="64" y="631" type="line"/>
+    </contour>
+    <contour>
+      <point x="122" y="545" type="line"/>
+      <point x="133" y="545" type="line"/>
+      <point x="81" y="631" type="line"/>
+      <point x="64" y="631" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="545" type="line"/>
+      <point x="139" y="545" type="line"/>
+      <point x="67" y="631" type="line"/>
+      <point x="52" y="631" type="line"/>
+    </contour>
+    <contour>
+      <point x="130" y="545" type="line"/>
+      <point x="139" y="545" type="line"/>
+      <point x="67" y="631" type="line"/>
+      <point x="52" y="631" type="line"/>
+    </contour>
+  </outline>
+</glyph>

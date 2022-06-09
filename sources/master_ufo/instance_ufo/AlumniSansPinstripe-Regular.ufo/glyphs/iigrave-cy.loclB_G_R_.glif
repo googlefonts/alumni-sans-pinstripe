@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iigrave-cy.loclBGR" format="2">
+  <advance width="378"/>
+  <anchor x="349" y="0" name="bottomright"/>
+  <anchor x="186" y="631" name="top"/>
+  <outline>
+    <component base="ii-cy.loclBGR"/>
+    <component base="gravecomb" xOffset="-70"/>
+  </outline>
+</glyph>

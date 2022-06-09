@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="utilde" format="2">
+  <advance width="381"/>
+  <unicode hex="0169"/>
+  <note>
+utilde
+</note>
+  <anchor x="158" y="0" name="bottom"/>
+  <anchor x="285" y="0" name="ogonek"/>
+  <anchor x="239" y="572" name="top"/>
+  <anchor x="313" y="495" name="topright"/>
+  <outline>
+    <component base="u"/>
+    <component base="tildecomb" xOffset="-58"/>
+  </outline>
+</glyph>

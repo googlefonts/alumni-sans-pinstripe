@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="thorn" format="2">
+  <advance width="367"/>
+  <unicode hex="00FE"/>
+  <note>
+thorn
+</note>
+  <outline>
+    <contour>
+      <point x="18" y="-116" type="line"/>
+      <point x="34" y="-116" type="line"/>
+      <point x="55" y="38" type="line"/>
+      <point x="60" y="16"/>
+      <point x="86" y="-7"/>
+      <point x="153" y="-7" type="curve" smooth="yes"/>
+      <point x="266" y="-7"/>
+      <point x="282" y="62"/>
+      <point x="290" y="124" type="curve" smooth="yes"/>
+      <point x="325" y="372" type="line" smooth="yes"/>
+      <point x="327" y="387"/>
+      <point x="329" y="402"/>
+      <point x="329" y="417" type="curve" smooth="yes"/>
+      <point x="329" y="463"/>
+      <point x="311" y="503"/>
+      <point x="225" y="503" type="curve" smooth="yes"/>
+      <point x="156" y="503"/>
+      <point x="123" y="471"/>
+      <point x="112" y="445" type="curve"/>
+      <point x="138" y="630" type="line"/>
+      <point x="122" y="630" type="line"/>
+    </contour>
+    <contour>
+      <point x="155" y="9" type="curve" smooth="yes"/>
+      <point x="79" y="9"/>
+      <point x="64" y="43"/>
+      <point x="64" y="82" type="curve" smooth="yes"/>
+      <point x="64" y="97"/>
+      <point x="66" y="112"/>
+      <point x="68" y="127" type="curve" smooth="yes"/>
+      <point x="101" y="363" type="line" smooth="yes"/>
+      <point x="110" y="428"/>
+      <point x="126" y="487"/>
+      <point x="222" y="487" type="curve" smooth="yes"/>
+      <point x="297" y="487"/>
+      <point x="313" y="455"/>
+      <point x="313" y="415" type="curve" smooth="yes"/>
+      <point x="313" y="401"/>
+      <point x="311" y="385"/>
+      <point x="309" y="369" type="curve" smooth="yes"/>
+      <point x="275" y="127" type="line" smooth="yes"/>
+      <point x="267" y="74"/>
+      <point x="258" y="9"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+38 
+MDAP[1]	/* MoveDirectAbsPt */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
+      <string>n</string>
+      <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>
+      <string>o</string>
+    </dict>
+  </lib>
+</glyph>

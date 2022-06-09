@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="oacute" format="2">
+  <advance width="362"/>
+  <unicode hex="00F3"/>
+  <note>
+oacute
+</note>
+  <anchor x="143" y="0" name="bottom"/>
+  <anchor x="178" y="248" name="center"/>
+  <anchor x="172" y="0" name="ogonek"/>
+  <anchor x="242" y="630" name="top"/>
+  <anchor x="246" y="495" name="topright"/>
+  <outline>
+    <component base="o"/>
+    <component base="acutecomb" xOffset="-58"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+46 3 44 4 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

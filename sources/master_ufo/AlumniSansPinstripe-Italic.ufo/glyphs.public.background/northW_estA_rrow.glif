@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="northWestArrow" format="2">
+  <outline>
+    <contour>
+      <point x="590" y="85" type="line"/>
+      <point x="604" y="99" type="line"/>
+      <point x="132" y="571" type="line"/>
+      <point x="387" y="571" type="line"/>
+      <point x="387" y="590" type="line"/>
+      <point x="98" y="591" type="line"/>
+      <point x="99" y="302" type="line"/>
+      <point x="118" y="302" type="line"/>
+      <point x="118" y="557" type="line"/>
+    </contour>
+  </outline>
+</glyph>

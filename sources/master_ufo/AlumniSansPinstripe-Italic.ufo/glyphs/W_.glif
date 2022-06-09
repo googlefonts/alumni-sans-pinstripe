@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="513"/>
+  <unicode hex="0057"/>
+  <note>
+W
+</note>
+  <anchor x="226" y="0" name="bottom"/>
+  <anchor x="309" y="591" name="top"/>
+  <outline>
+    <contour>
+      <point x="87" y="0" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="298" y="553" type="line"/>
+      <point x="333" y="0" type="line"/>
+      <point x="352" y="0" type="line"/>
+      <point x="538" y="591" type="line"/>
+      <point x="522" y="591" type="line"/>
+      <point x="347" y="35" type="line"/>
+      <point x="312" y="591" type="line"/>
+      <point x="295" y="591" type="line"/>
+      <point x="103" y="45" type="line"/>
+      <point x="87" y="591" type="line"/>
+      <point x="71" y="591" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+9 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+9 5 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+PUSHW[ ]	/* 1 value pushed */
+0 
+RCVT[ ]	/* ReadCVT */
+IF[ ]	/* If */
+PUSHW[ ]	/* 1 value pushed */
+12 
+MDAP[1]	/* MoveDirectAbsPt */
+ELSE[ ]	/* Else */
+PUSHW[ ]	/* 2 values pushed */
+12 5 
+MIAP[0]	/* MoveIndirectAbsPt */
+EIF[ ]	/* EndIf */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>

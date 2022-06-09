@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ograve" format="2">
+  <advance width="416"/>
+  <unicode hex="00D2"/>
+  <note>
+Ograve
+</note>
+  <anchor x="173" y="0" name="bottom"/>
+  <anchor x="215" y="296" name="center"/>
+  <anchor x="190" y="-9" name="ogonek"/>
+  <anchor x="252" y="672" name="top"/>
+  <anchor x="95" y="591" name="topleft"/>
+  <anchor x="314" y="591" name="topright"/>
+  <outline>
+    <component base="O"/>
+    <component base="gravecomb.case" xOffset="-59"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>assembly</key>
+      <string>SVTCA[0]	/* SetFreedomAndProjectionVectorToAxis */
+PUSHW[ ]	/* 4 values pushed */
+45 3 47 4 
+CALL[ ]	/* CallFunction */
+IUP[0]	/* InterpolateUntPts */
+IUP[1]	/* InterpolateUntPts */</string>
+    </dict>
+  </lib>
+</glyph>
