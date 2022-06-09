@@ -21,7 +21,7 @@ FONT_LICENSE = "OFL v1.1"
 AUXILIARY_FONT = "Helvetica"
 AUXILIARY_FONT_SIZE = 24
 BIG_TEXT = "Alumni Sans Pinstripe"
-BIG_TEXT_FONT_SIZE = 648
+BIG_TEXT_FONT_SIZE = 580
 BIG_TEXT_SIDE_MARGIN = MARGIN * 1.2
 BIG_TEXT_BOTTOM_MARGIN = MARGIN * 5.5
 GRID_VIEW = False # Change this to "True" for a grid overlay
@@ -29,7 +29,7 @@ GRID_VIEW = False # Change this to "True" for a grid overlay
 # Handel the "--output" flag
 # For example: $ python3 documentation/image1.py --output documentation/image1.png
 parser = argparse.ArgumentParser()
-parser.add_argument("--output", metavar="PNG", help="where to write the PNG file")
+parser.add_argument("--output", "-o", metavar="PNG", help="where to write the PNG file")
 args = parser.parse_args()
 
 # Load the font with the parts of fonttools that are imported with the line:
